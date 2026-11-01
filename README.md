@@ -2,6 +2,8 @@
 
 Predict annual medical insurance charges from demographic and lifestyle features using linear regression.
 
+This is a **learning project** from an ML series.
+
 ## Overview
 
 This project explores the [Medical Cost Personal Datasets](https://www.kaggle.com/datasets/mirichoi0218/insurance) (1,338 observations) and builds a baseline linear regression model to estimate insurance charges.
